@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://juliusolaifa.github.io/">
-    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-juliusolaifa-red?style=flat-square">
 </a>  
 <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
