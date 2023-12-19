@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/PyPi-jbo-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
 
-[Email Me](mailto:your-email@example.com)
 <!-- <a href="https://pypi.org/user/drkostas/">
     <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a> -->
