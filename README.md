@@ -42,7 +42,9 @@
 
 * 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
 
-* 💻 Currently building Masked Image Modeling models for Remote Sensing data. 
+* 💻 Currently building Masked Image Modeling models for Remote Sensing data.
+  
+* 📖 Pursuing Masters in Computer Science @ [Oklahoma State University](https://cas.okstate.edu/department_of_computer_science//). 
 
 ### 🖥️ Open-Source Projects
 <table>
