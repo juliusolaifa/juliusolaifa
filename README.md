@@ -44,6 +44,7 @@
   
 * 📖 Pursuing Masters in Computer Science @ [Oklahoma State University](https://cas.okstate.edu/department_of_computer_science//). 
 
+<!--
 ### 🖥️ Open-Source Projects
 <table>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
@@ -94,6 +95,7 @@
 | [Quantum Mechanics Quiz App](https://github.com/drkostas/Quantum-Mechanics-Quiz-App) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Quantum-Mechanics-Quiz-App?style=flat-square&labelColor=black"/> | ![android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)|
 
 </td></tr> </table>
+-->
 
 <details>
 <summary>📈 Stats</summary>
