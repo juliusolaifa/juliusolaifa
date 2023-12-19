@@ -7,13 +7,13 @@
 <a href="https://juliusolaifa.github.io/">
     <img src="https://img.shields.io/badge/Website-juliusolaifa-green?style=flat-square">
 </a>  
-<a href="https://gkos.dev/Resume.pdf">
+<a href="https://juliusolaifa.github.io/data/JuliusOlaifa-CV.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="https://www.linkedin.com/in/gkos/">
+<a href="https://www.linkedin.com/in/jbolaifa/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:georgiou.kostas94@gmail.com">
+<a href="mailto:jbolaifa@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
@@ -32,7 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> -->
 
-<a href="https://github.com/drkostas">
+<a href="https://github.com/juliusolaifa">
     <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
