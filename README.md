@@ -38,7 +38,7 @@
 
 </p>
 
-* 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
+* 📖 Pursuing PhD in Statistics @ [Oklahoma State University](https://statistics.okstate.edu/). 
 
 * 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
 
