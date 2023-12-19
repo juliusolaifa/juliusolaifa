@@ -40,7 +40,7 @@
 
 * 📖 Pursuing PhD in Statistics @ [Oklahoma State University](https://statistics.okstate.edu/). 
 
-* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
+* 🎓 Conducting research on **Statistical framework for modeling heritability in RNA-Seq**
 
 * 💻 Currently building Masked Image Modeling models for Remote Sensing data.
   
